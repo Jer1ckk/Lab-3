@@ -1,0 +1,13 @@
+button{
+    border: 3px solid deeppink;
+    border-radius: 10px;
+    background-color: pink;
+    color: white;   
+    padding: 5px;
+    width: 100px;
+}
+button:hover{
+    background-color: lightblue;
+    border-color: deepskyblue;
+    cursor: pointer;
+}
